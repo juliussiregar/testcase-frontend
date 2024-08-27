@@ -1,0 +1,13 @@
+[
+    { "id": 1, "name": "Cement", "price": 50000 },
+    { "id": 2, "name": "Bricks", "price": 1000 },
+    { "id": 3, "name": "Sand", "price": 75000 },
+    { "id": 4, "name": "Gravel", "price": 50000 },
+    { "id": 5, "name": "Steel Rods", "price": 120000 },
+    { "id": 6, "name": "Wood", "price": 90000 },
+    { "id": 7, "name": "Glass", "price": 200000 },
+    { "id": 8, "name": "Paint", "price": 50000 },
+    { "id": 9, "name": "Tiles", "price": 150000 },
+    { "id": 10, "name": "Pipes", "price": 60000 }
+  ]
+  

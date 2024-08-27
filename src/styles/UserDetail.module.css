@@ -1,0 +1,41 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f0f8ff; 
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); 
+}
+
+.title {
+  font-size: 2.5rem;
+  color: #1e90ff; 
+  margin-bottom: 20px;
+  text-align: center;
+  border-bottom: 2px solid #1e90ff;
+  padding-bottom: 10px;
+}
+
+.nameTitle {
+  font-size: 2rem;
+  color: #333; 
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.text {
+  font-size: 1.2rem;
+  margin: 10px 0;
+  color: #333;
+  line-height: 1.6;
+}
+
+.link {
+  color: #ff4500; 
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
